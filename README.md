@@ -31,6 +31,7 @@
 <!--## Bear_nyong 👋 <br/>-->
 
 <!--https://github.com/Ileriayo/markdown-badges-->
+<!--
 <div align="left">
 
 <h5> 📋 Languages _&nbsp; </h5>
@@ -66,7 +67,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbearnyong&count_bg=%2396BC90&title_bg=%23657663&icon=github.svg&icon_color=%23FFFFFF&title=hello+%3A-%29&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
-
+-->
  <!--
 
 <h4> 💬 Social </h4>
